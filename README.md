@@ -11,3 +11,10 @@ https://support.elastic.co/search
 For more info see:
 - https://www.elastic.co/blog/elastic-knowledge-center-support-hub
 - https://discuss.elastic.co/t/dec-22nd-2024-en-how-to-access-elastic-knowledge-inside-support-hub/371965
+
+
+---
+
+Example of how the KB issue surfaces the KB article url:
+
+<img width="707" height="325" alt="link example" src="https://github.com/user-attachments/assets/30518ea3-0f6a-4f47-8269-f3f1f33afaee" />
