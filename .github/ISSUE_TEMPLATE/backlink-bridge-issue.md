@@ -1,9 +1,15 @@
 ---
 name: Backlink Bridge Issue
 about: A default template to ensure info describes what the issue is/does
-title: 'KB Article: '
+title: 'KB Article: <article id goes here>'
 labels: ''
 assignees: ''
+
+---
+
+Knowledge Article:
+Issues:
+PRs:
 
 ---
 
@@ -16,8 +22,6 @@ For more info see:
 - https://www.elastic.co/blog/elastic-knowledge-center-support-hub
 - https://discuss.elastic.co/t/dec-22nd-2024-en-how-to-access-elastic-knowledge-inside-support-hub/371965
 
----
 
-Knowledge Article:
-Issues:
-PRs:
+
+
