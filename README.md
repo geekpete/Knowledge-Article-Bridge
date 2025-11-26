@@ -19,3 +19,4 @@ Example of how the KB issue surfaces the KB article url:
 
 <img width="744" height="294" alt="link example" src="https://github.com/user-attachments/assets/def6d287-bc95-461c-bb6e-0cf4d79e9592" />
 
+Navigate to one of the bridge issues then click through to the issue or PR to see the bridge issue.
