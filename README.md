@@ -17,4 +17,5 @@ For more info see:
 
 Example of how the KB issue surfaces the KB article url:
 
-<img width="707" height="325" alt="link example" src="https://github.com/user-attachments/assets/30518ea3-0f6a-4f47-8269-f3f1f33afaee" />
+<img width="744" height="294" alt="link example" src="https://github.com/user-attachments/assets/def6d287-bc95-461c-bb6e-0cf4d79e9592" />
+
